@@ -37,7 +37,9 @@ const html = `
     </title>
 </head>
 <body>
-    
+    <div>
+        Some HTML body inner HTML
+    </div>
 </body>
 </html>
 `;
