@@ -23,7 +23,7 @@ const getHtmlTitle = require('vamtiger-get-html-title').default;
 
 [VAMTIGER Get HTML Title](https://github.com/vamtiger-project/vamtiger-get-html-title) can then be used to test whether a defined input string contains a _HTML_ **Title**:
 ```javascript
-const getBodyInnerHtml = require('vamtiger-get-body-inner-html').default
+const getHtmlTitle = require('vamtiger-get-html-title').default
 
 const html = `
 <!DOCTYPE html>
