@@ -1,6 +1,6 @@
 {
     "name": "vamtiger-get-html-title",
-    "version": "0.0.7-0",
+    "version": "0.0.7",
     "description": "Get the title for a defined HTML document text",
     "main": "build",
     "scripts": {
