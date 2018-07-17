@@ -1,4 +1,4 @@
-# VAMTIGER Bash
+# VAMTIGER Get HTML Title
 [VAMTIGER Get HTML Title](https://github.com/vamtiger-project/vamtiger-get-html-title) will return the title for defined HTML document text
 
 ## Installation
