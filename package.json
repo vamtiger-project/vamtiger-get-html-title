@@ -1,6 +1,6 @@
 {
     "name": "vamtiger-get-html-title",
-    "version": "0.0.7",
+    "version": "0.0.8-0",
     "description": "Get the title for a defined HTML document text",
     "main": "build",
     "scripts": {
@@ -32,7 +32,7 @@
         "chai": "^4.1.2",
         "mocha": "^5.2.0",
         "typescript": "^2.8.3",
-        "vamtiger-node-typescript-commit": "0.0.51"
+        "vamtiger-node-typescript-commit": "latest"
     },
     "dependencies": {
         "vamtiger-regex-html-title": "0.0.2",
